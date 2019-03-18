@@ -22,7 +22,7 @@ func main() {
 	n := one()
 	println("n=", n)
 
-	k = k + 1
+	k += 1
 	println("k=", k)
 }
 
